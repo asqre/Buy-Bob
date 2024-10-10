@@ -29,7 +29,7 @@ const Buy = () => {
       </div>
 
       <div className="flex flex-col md:flex-row items-center sm:items-start justify-between gap-8">
-        <div className="flex flex-col gap-2 w-full md:w-[30%] items-center md:items-start">
+        <div className="flex flex-col gap-5 w-full md:w-[30%] items-center md:items-start">
           <CustomSVGPath />
           <CustomSVGPath />
           <CustomSVGPath />
@@ -47,7 +47,7 @@ const Buy = () => {
           </h4>
         </div>
 
-        <div className="flex flex-col gap-5 w-full items-center md:items-start md:w-[60%]">
+        <div className="flex flex-col gap-8 w-full items-center md:items-start md:w-[60%]">
           <CustomSVGPath />
           <CustomSVGPath />
           <h6 className="text-xs sm:text-sm lg:text-base text-center sm:text-left">
