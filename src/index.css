@@ -6,12 +6,114 @@
 
 *{
   margin: 0;
-  padding:0;
-  box-sizing:border-box;
+  padding: 0;
+  box-sizing: border-box;
   font-family: 'YACgEZHPKsk-0', sans-serif;
 }
 
 @font-face {
   font-family: 'YACgEZHPKsk-0';
   src: url('./assets/fonts/BLACKBOYSONMOPEDS.ttf') format('truetype');
+}
+
+@layer base {
+  h1 {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.4;
+    text-align: center;
+    letter-spacing: 0.2em;
+    @apply font-bold;
+
+    @screen sm {
+      font-size: 56px;
+      line-height: 74px;
+    }
+
+    @screen lg {
+      font-size: 76px;
+      line-height: 100px;
+    }
+  }
+
+  h2 {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: left;
+    line-height: 1.37492552em;
+    color: #000000;
+
+    @screen sm {
+      font-size: 50px;
+      line-height: 64px;
+    }
+
+    @screen lg {
+      font-size: 64px;
+      line-height: 80px;
+      letter-spacing: 0.02em;
+    }
+  }
+
+  h3 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    text-align: left;
+    color: #000000;
+
+    @screen sm {
+      font-size: 50px;
+      line-height: 61px;
+    }
+
+    @screen lg {
+      font-size: 64px;
+      line-height: 72px;
+    }
+  }
+
+  h4 {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.33333333em;
+    text-align: left;
+    color: #000000;
+
+    @screen sm {
+      font-size: 20px;
+      line-height: 1.25;
+    }
+
+    @screen lg {
+      font-size: 24px;
+      line-height: 1.2;
+    }
+  }
+
+  h5 {
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 1.33333333em;
+    text-align: left;
+    color: #000000;
+
+    @screen sm {
+      font-size: 20px;
+      line-height: 1.25;
+    }
+
+    @screen lg {
+      font-size: 24px;
+      line-height: 1.2;
+    }
+  }
+
+  h6 {
+    font-weight: 400;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.39603352em;
+    color: #737373;
+  }
 }
