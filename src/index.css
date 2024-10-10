@@ -8,5 +8,10 @@
   margin: 0;
   padding:0;
   box-sizing:border-box;
-  font-family: 'Poppins', sans-serif; 
+  font-family: 'YACgEZHPKsk-0', sans-serif;
+}
+
+@font-face {
+  font-family: 'YACgEZHPKsk-0';
+  src: url('./assets/fonts/BLACKBOYSONMOPEDS.ttf') format('truetype');
 }
