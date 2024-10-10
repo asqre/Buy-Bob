@@ -8,7 +8,9 @@ const Home = () => {
     <div>
       <Image />
       <Buy />
-      <Grid />
+      <div className="w-[80%] m-auto mt-20">
+        <Grid />
+      </div>
     </div>
   );
 };
