@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { FaTelegramPlane } from "react-icons/fa";
 
 function Image() {
-  const [scale, setScale] = useState(0.6); // Initial scale set to 0.75
+  const [scale, setScale] = useState(0.6); 
 
   useEffect(() => {
    
