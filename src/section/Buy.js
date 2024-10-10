@@ -13,7 +13,7 @@ const Buy = () => {
       </h5>
 
       <h4>
-        CA:0x5f3a18cdfd7ef0527a65ba5c07dbe0efe276507d4d1a4d1bebe87f5d40df6cf6::bob::BOB
+        CA: 0x5f3a18cdfd7ef0527a65ba5c07dbe0efe276507d4d1a4d1bebe87f5d40df6cf6::bob::BOB
       </h4>
 
       <div className="flex flex-row justify-between">
@@ -32,6 +32,18 @@ const Buy = () => {
           <CustomSVGPath />
           <CustomSVGPath />
           <CustomSVGPath />
+          <h4>
+            Built by {" "}
+            <span className="underline">
+              <a
+                href="https://www.suiblockchain.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Memespace
+              </a>
+            </span>
+          </h4>
         </div>
 
         <div className="flex flex-col gap-5 w-[60%]">

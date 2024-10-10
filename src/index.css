@@ -37,11 +37,12 @@
   }
 
   h2 {
-    font-weight: 700;
+    font-weight: 500;
     font-size: 36px;
     text-align: left;
     line-height: 1.37492552em;
     color: #000000;
+    letter-spacing: 0.09em;
 
     @screen sm {
       font-size: 50px;
@@ -51,7 +52,6 @@
     @screen lg {
       font-size: 64px;
       line-height: 80px;
-      letter-spacing: 0.02em;
     }
   }
 
@@ -79,6 +79,7 @@
     line-height: 1.33333333em;
     text-align: left;
     color: #000000;
+    letter-spacing: 0.09em;
 
     @screen sm {
       font-size: 20px;
@@ -97,6 +98,7 @@
     line-height: 1.33333333em;
     text-align: left;
     color: #000000;
+    letter-spacing: 0.05em;
 
     @screen sm {
       font-size: 20px;
