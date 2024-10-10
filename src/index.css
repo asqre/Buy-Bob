@@ -39,7 +39,7 @@
   h2 {
     font-weight: 500;
     font-size: 36px;
-    text-align: left;
+    text-align: center;
     line-height: 1.37492552em;
     color: #000000;
     letter-spacing: 0.09em;
@@ -52,6 +52,7 @@
     @screen lg {
       font-size: 64px;
       line-height: 80px;
+      text-align: left;
     }
   }
 
@@ -118,4 +119,9 @@
     line-height: 1.39603352em;
     color: #737373;
   }
+}
+
+.break-words {
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
