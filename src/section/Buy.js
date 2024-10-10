@@ -4,7 +4,7 @@ import CustomSVGPath from "../components/CustomPath";
 
 const Buy = () => {
   return (
-    <div className="flex flex-col gap-[32px] w-full mx-auto my-12 px-[10%] sm:px-[15%] md:px-[10%] lg:px-[15%]">
+    <div className="flex flex-col gap-[32px] w-full mx-auto my-[150px] px-[10%] sm:px-[15%] md:px-[10%] lg:px-[15%]">
       <h2>How to buy bob</h2>
       <h5>
         Download the SUI wallet for the SUI blockchain. Then, purchase SUI using

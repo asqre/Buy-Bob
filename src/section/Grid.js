@@ -10,7 +10,7 @@ function Grid() {
     const images3 = gridImages.slice(chunkSize * 2, chunkSize * 3);
 
     return (
-        <div className='flex flex-col md:flex-row md:justify-center gap-6'>
+        <div className='flex flex-col md:flex-row md:justify-center gap-6 pb-[100px]'>
             <FlexBoxComp images={images1} />
             <FlexBoxComp images={images2} />
             <FlexBoxComp images={images3} />
