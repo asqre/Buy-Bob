@@ -15,28 +15,32 @@ function Image() {
   }, []);
 
   return (
-    <div className="relative flex flex-col justify-center items-center h-[90vh] sm:h-[100vh] md:h-[120vh] lg:h-[90vh]  pt-[110px] pb-[100px]">
-      <h1 className="absolute top-[15vh] z-10 ">Crab with knife</h1>
-      <img src={immigration} alt="bob" className="mt-[-500px]" />
-      {/* <img
-        src="https://buybob.xyz/images/cc19db0bbff0a2d701d437a40155c802.png"
+    <div className="relative flex flex-col justify-center items-center  xl:h-[65vh]">
+      <h1 className="absolute top-[15vh] z-10">
+        Crab with knife
+      </h1>
+      <img
         src={immigration}
         alt="bob"
-        className={`absolute bottom-[5vh] lg:w-3/4 xl:w-1/2 h-auto z-0 transform transition-transform duration-1000 ease-in-out`}
-        style={{ transform: `scale(${scale})`, opacity: scale }}
+        className="h-[80vh] w-[100vw] object-cover lg:w-auto lg:h-auto"
+       
       />
-       */}
-      <div className="bg-slate-700 flex justify-around z-10 text-[#24A1DE] gap-5  w-[100vw]">
-        <div>
-          <h3 className="leading-none text-white font-bold">
+      <div
+        className=" flex flex-row justify-around text-[#24A1DE] gap-5 py-8  w-[100vw]"
+        style={{ background: "linear-gradient(to bottom, #beae9a, #0070a6)" }}
+      >
+        <div className="flex flex-col justify-center items-center ">
+          <h1 className="leading-none text-2xl md:text-5xl text-white font-bold">
             Join the <br />
             telegram
-          </h3>
-          <FaTelegramPlane size={100} />
+          </h1>
+          <FaTelegramPlane className="w-[40px] h-[40px]" />
         </div>
         <div className="flex flex-col items-center justify-center">
-          <h1 className="text-white text-5xl font-bold">Join with <br/> twitter</h1>
-          <FaXTwitter size={100} color="black" />
+          <h1 className="text-white text-2xl md:text-5xl font-bold leading-none">
+            Join with <br /> twitter
+          </h1>
+          <FaXTwitter className="w-[40px] h-[40px]"  color="black" />
         </div>
       </div>
     </div>
