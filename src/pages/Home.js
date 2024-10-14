@@ -5,7 +5,7 @@ import Grid from "../section/Grid";
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-gradient-to-r from-[#A1C8E8] to-[#E0F7FA]">
       <Image />
       <Buy />
       <div className="w-[80%] m-auto mt-20">
