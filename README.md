@@ -1,4 +1,4 @@
-# Crab with Knife (CWK) - README
+# Crab with Knife (CWK)
 
 Welcome to **Crab with Knife (CWK)**, the sharpest and most armored coin in the crypto space! Forget bulls and bears—it's time to unleash the true market animal, the Crab. Armed with a knife and ready to conquer the SUI blockchain, CWK is here to slice through the competition with humor, low fees, and an unstoppable community.
 
