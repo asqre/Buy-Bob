@@ -21,7 +21,7 @@ const Buy = () => {
       <h5>
         Download the SUI wallet for the SUI blockchain. Then, purchase SUI using
         your debit card ​with Moonpay OR swap existing coins for $SUI. After,
-        visit any SUI based DEX and trade ​your $SUI for $BOB.
+        visit any SUI based DEX and trade ​your $SUI for $CWK.
       </h5>
 
       <div className="flex gap-4 items-center">
