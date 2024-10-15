@@ -7,7 +7,7 @@ import { FaClipboard, FaClipboardCheck } from "react-icons/fa";
 const Buy = () => {
   const [copied, setCopied] = useState(false);
   const contractAddress =
-    "0x5f3a18cdfd7ef0527a65ba5c07dbe0efe276507d4d1a4d1bebe87f5d40df6cf6::bob::BOB";
+    "0x5cc33d0aabadf21d977b6249b417750ce34b52a7a144e61bf9874413214d2364::cwk::CWK";
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(contractAddress);
