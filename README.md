@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Crab with Knife (CWK) - README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to **Crab with Knife (CWK)**, the sharpest and most armored coin in the crypto space! Forget bulls and bears—it's time to unleash the true market animal, the Crab. Armed with a knife and ready to conquer the SUI blockchain, CWK is here to slice through the competition with humor, low fees, and an unstoppable community.
 
-## Available Scripts
+## Website Overview
 
-In the project directory, you can run:
+**Website URL**: [Crab with Knife](https://crabwithknife.org)  
+Created using **React.js**.
 
-### `yarn start`
+### Features:
+- **Telegram Community**: Join the conversation and stay updated by joining our Telegram community.
+- **Twitter**: Follow us on Twitter to get the latest news and memes from the Crab with Knife team.
+- **How to Buy CWK**: Step-by-step instructions on how to buy CWK using the SUI blockchain.
+- **Partnerships and DEX Listings**: Links to key partners such as Birdeye and Dex Screener for tracking and trading.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Buy CWK
 
-### `yarn test`
+1. **Download the SUI Wallet**: First, you need a SUI wallet to interact with the SUI blockchain. Download a SUI-compatible wallet like [SUI Wallet](https://wallet.sui.io).
+2. **Purchase SUI**: Buy SUI using your debit card through **Moonpay** or swap existing crypto for $SUI.
+3. **Trade for CWK**: Visit any SUI-based DEX and swap your $SUI for $CWK tokens.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Contract Address (CA)
 
-### `yarn build`
+You can use the following contract address to locate CWK on the SUI blockchain:
+`0x5cc33d0aabadf21d977b6249b417750ce34b52a7a144e61bf9874413214d2364::cwk::CWK`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Join the Community
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Telegram**: [Join the Telegram Group](#)
+- **Twitter**: [Follow us on Twitter](#)
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Partners & Tools
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **CompanyCompany**: Explore our primary partner platform.
+- **Birdeye**: Track your CWK holdings and stay updated with price movements on Birdeye.
+- **DEX Screener**: Use DEX Screener to monitor CWK trades and liquidity on SUI DEXs.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## What is Crab with Knife?
 
-## Learn More
+Crab with Knife (CWK) is more than just another crypto token. It's a movement. We’re not bulls, and we’re not bears—we’re crabs, armored and equipped with knives to take on the market. Why settle for boring technical analysis when you can join a community with humor, resilience, and an edge (literally)? CWK thrives on the SUI blockchain, offering low fees, utility, and a robust community ready to slice through the noise of crypto.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Get Involved!
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Join us and become part of the CWK revolution. Let’s crab our way to the top of the blockchain world, armed and ready to win.
