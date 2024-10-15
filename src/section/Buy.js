@@ -33,7 +33,7 @@ const Buy = () => {
         </button>
       </div>
 
-      <div className="flex flex-wrap justify-center gap-20 py-10">
+      <div className="flex flex-wrap justify-center gap-5 md:gap-20 py-10">
         {companyImages.map((company) => (
           <img
             key={company.id}
@@ -45,7 +45,7 @@ const Buy = () => {
       </div>
 
       <div className="flex flex-col md:flex-row items-center sm:items-start justify-between gap-8">
-        <div className="flex flex-col gap-8 w-full md:w-[30%] items-center md:items-start">
+        <div className="flex flex-col gap-8 md:gap-15 w-full md:w-[30%] items-center md:items-start">
           <CustomSVGPath
             img="https://buybob.xyz/images/dce615e04e1298ade3fa1ca428b3100e.png"
             name={"BIRDEYE"}
@@ -82,7 +82,7 @@ const Buy = () => {
             name={"DEX TOOLS"}
           /> */}
 
-          <h6 className="text-xs sm:text-sm lg:text-2xl text-center sm:text-left">
+          <h6 className="text-sm sm:text-lg lg:text-2xl text-center sm:text-left">
             Crab with Knife: You’ve heard of bulls & bears. Forget them. The
             real market animal is a crab—armed, armored, and ready to slice up
             the competition. Grab your knife! This coin doesn’t just have
